@@ -13,6 +13,7 @@
  pip install -r requirements.txt
 ```
 * Escolha o algoritmo que deseja rodar: Algoritmo Genético ou a Heurística de Atribuição de Orientação.
+* Escolha o cenário de teste desejado na seção "Testes" de cada algoritmo.
 * Execute o algoritmo com "Run All", com a cena do Coppellia aberta.
 
 
